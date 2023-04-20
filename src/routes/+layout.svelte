@@ -12,7 +12,7 @@
 			<a href="/guarded">Guarded</a>
 			<a href="/about">About</a>
 			<a href="/contacts">Contacts</a>
-			<form method="POST" action="?/logout">
+			<form method="POST" action="/?/logout">
 				<button type="submit" name="logout" value="true">Logout</button>
 			</form>
 		{:else}
