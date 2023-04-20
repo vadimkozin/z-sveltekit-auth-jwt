@@ -4,7 +4,7 @@ Related blog post: https://okupter.com/blog/handling-auth-with-jwt-in-sveltekit.
 
 I changed quite a bit to protect the route group and added a description of the installation
 
-1. git clone
+1. git clone git@github.com:vadimkozin/z-sveltekit-auth-jwt.git
 2. cd project
 3. npm install
 4. mv .env.example .env
